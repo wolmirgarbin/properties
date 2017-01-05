@@ -1,1 +1,1 @@
-# properties sample
+# properties sample by spring cloud
